@@ -1,0 +1,65 @@
+{
+	"basics": {
+		"name": "Tejender Upadhyay",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2020kucp1019@iiitkota.ac.in",
+		"phone": "9024753831",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "Hola it's Tejender here, persuing B-Tech from IIIT KOTA in C. S. E. ",
+		"location": {
+			"address": "House no.1,Ward no.24",
+			"postalCode": "335051",
+			"city": "Raisinghnagar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/<handle>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/<handle>"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "B-Tech",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "2024-03-31",
+		"gpa": "8.68",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "PHP", "C/C++", "jQuery", "MySql"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
