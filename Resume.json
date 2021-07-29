@@ -16,8 +16,8 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "Tejender Upadhyay",
+				"url": "https://www.twitter.com/tarun1521"
 			},
 			{
 				"network": "Github",
@@ -26,13 +26,13 @@
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "Tejender Upadhyay",
+				"url": "https://www.linkedin.com/in/tejender-upadhyay/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "Tejender Upadhyay",
+				"url": "https://instagram.com/tejender_upadhyay"
 			}
 		]
 	},
