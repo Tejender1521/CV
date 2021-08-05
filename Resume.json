@@ -42,14 +42,14 @@
 		"studyType": "B-Tech",
 		"startDate": "2020-12-02 //Date",
 		"endDate": "2024-03-31",
-		"gpa": "8.68",
+		"gpa": "8.76",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "PHP", "C/C++", "jQuery", "MySql"]
+		"keywords": ["C/C++", "Javascript", "Canva", "HTML", "CSS", "Bootstrap", "PHP", "jQuery", "MySql"]
 	}],
 	"interests": [{
 		"name": "Sports",
