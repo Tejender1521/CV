@@ -67,13 +67,34 @@
 			"CBSE Board Education"
 		]
 	}],
+	"volunteer": [{
+		"organization": "FIT INDIA CLUB, IIIT KOTA",
+		"position": "Core Team Member and Drive Management",
+		"website": "https://fitindiaiiitkota.vercel.app/",
+		"startDate": "2021-01-01",
+		"summary": "Sucessfully organised Chess Tournament and other Activities in our College Premesis."
+	}],
+	"publications": [{
+		"title": "Git Hub Profile Viewer",
+		"details": "By Searching your Username, you can easily fetch your Github Profile and Repository References",
+		"link": "https://tejender1521.github.io/Github-App/"
+	},
+	{
+		"title": "Password Generator",
+		"details": "Randomly generates strong passwords.",
+		"link": "https://tejender1521.github.io/Password-Generator/"
+	}],
 	
 	"skills": [{
 		"level": "Master",
 		"keywords": ["C/C++", "Javascript", "Canva", "HTML", "CSS", "Bootstrap", "PHP", "jQuery", "MySql"]
 	}],
 	"interests": [{
+		"name": "Blogs Reading",
+		"keywords": ["Artificial Inteligence", "Data Science", "Programming", "Science", "New Technogolies","GeekforGeek"]
+	},
+        {
 		"name": "Sports",
-		"keywords": ["Chess"]
+		"keywords": ["Chess", "Cycling"]
 	}]
 }
