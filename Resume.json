@@ -56,6 +56,16 @@
 		"courses": [
 			"Physics, Chemistry, Maths"
 		]
+	},
+        {
+		"institution": "Kendriya Vidyalaya Sanghathan",
+		"studyType": "Secondary Education",
+		"startDate": "2013-04-01 To ",
+		"endDate": "2018-03-31",
+		"gpa": "87%",
+		"courses": [
+			"CBSE Board Education"
+		]
 	}],
 	
 	"skills": [{
