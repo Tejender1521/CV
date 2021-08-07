@@ -87,7 +87,7 @@
 	
 	"skills": [{
 		"level": "Master",
-		"keywords": ["C/C++", "Javascript", "Canva", "HTML", "CSS", "Bootstrap", "PHP", "jQuery", "MySql"]
+		"keywords": ["C/C++", "Javascript", "Canva", "HTML", "CSS", "Bootstrap", "PHP", "jQuery", "MySql", "GIT", "GitHub"]
 	}],
 	"interests": [{
 		"name": "Blogs Reading",
@@ -95,6 +95,6 @@
 	},
         {
 		"name": "Sports",
-		"keywords": ["Chess", "Cycling"]
+		"keywords": ["Chess", "Cycling", "Programming"]
 	}]
 }
