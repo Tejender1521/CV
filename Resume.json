@@ -6,7 +6,7 @@
 		"email": "2020kucp1019@iiitkota.ac.in",
 		"phone": "(+91)9024753831",
 		"website": "https://tejender1521.github.io/MyFirstCV/",
-		"summary": "|| DSA Enthusiast || Problem Solving Enthusiast || Interested in WEB Development || C.S.E. Undergraduate || IIIT KOTA (MNIT JAIPUR) ||",
+		"summary": "|| DSA Enthusiast || Problem Solving Enthusiast || Full Stack Web Developer || C.S.E. Undergraduate || IIIT KOTA (MNIT JAIPUR) ||",
 		"location": {
 			"address": "House no.1,Ward no.24",
 			"postalCode": "335051",
@@ -87,7 +87,7 @@
 	
 	"skills": [{
 		"level": "Master",
-		"keywords": ["C/C++", "Javascript", "Python", "Canva", "HTML", "CSS", "Bootstrap", "PHP", "jQuery", "MySql", "GIT", "GitHub"]
+		"keywords": ["C/C++", "Javascript", "React" ,"Node" ,"Express.js" ,"MongoDB" ,"Python", "Canva", "HTML", "CSS", "Bootstrap", "PHP", "jQuery", "MySql", "GIT", "GitHub"]
 	}],
 	"interests": [{
 		"name": "Blogs Reading",
