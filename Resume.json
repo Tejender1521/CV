@@ -1,100 +1,159 @@
 {
-	"basics": {
-		"name": "Tejender Upadhyay",
-		"label": "Student",
-		"picture": "https://avatars.githubusercontent.com/u/75739873?v=4",
-		"email": "2020kucp1019@iiitkota.ac.in",
-		"phone": "(+91)9024753831",
-		"website": "https://tejender1521.github.io/MyFirstCV/",
-		"summary": "|| DSA Enthusiast || Problem Solving Enthusiast || Full Stack Web Developer || C.S.E. Undergraduate || IIIT KOTA (MNIT JAIPUR) ||",
-		"location": {
-			"address": "House no.1,Ward no.24",
-			"postalCode": "335051",
-			"city": "Raisinghnagar",
-			"countryCode": "India",
-			"region": "Rajasthan"
-		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "Tejender Upadhyay",
-				"url": "https://www.twitter.com/tarun1521"
-			},
-			{
-				"network": "Github",
-				"username": "Tejender1521",
-				"url": "https://www.github.com/Tejender1521/"
-			},
-			{
-				"network": "linkedin",
-				"username": "Tejender Upadhyay",
-				"url": "https://www.linkedin.com/in/tejender-upadhyay/"
-			},
-			{
-				"network": "Instagram",
-				"username": "Tejender Upadhyay",
-				"url": "https://instagram.com/tejender_upadhyay"
-			}
-		]
-	},
-	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
-		"area": "Engineering",
-		"studyType": "B-Tech",
-		"startDate": "2020-12-02 To ",
-		"endDate": "2024-03-31",
-		"gpa": "8.76",
-		"courses": [
-			"Computer Science & Engineering"
-		]
-	},
-        {
-		"institution": "Allen Carrer Institute,Kota",
-		"area": "Joint Entrance Examination",
-		"studyType": "JEE Mains & Advance",
-		"startDate": "2018-04-01 To ",
-		"endDate": "2020-09-26",
-		"courses": [
-			"Physics, Chemistry, Maths"
-		]
-	},
-        {
-		"institution": "Kendriya Vidyalaya Sanghathan",
-		"studyType": "Secondary Education",
-		"startDate": "2013-04-01 To ",
-		"endDate": "2018-03-31",
-		"gpa": "87%",
-		"courses": [
-			"CBSE Board Education"
-		]
-	}],
-	"volunteer": [{
-		"organization": "FIT INDIA CLUB, IIIT KOTA",
-		"position": "Core Team Member and Drive Management",
-		"website": "https://fitindiaiiitkota.vercel.app/",
-		"startDate": "2021-01-01",
-		"summary": "Sucessfully organised Chess Tournament and other Activities in our College Premesis."
-	}],
-	"publications": [{
-		"title": "Git Hub Profile Viewer",
-		"details": "By Searching your Username, you can easily fetch your Github Profile and Repository References",
-		"link": "https://tejender1521.github.io/Github-App/"
+  "basics": {
+    "name": "Tejender Upadhyay",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/75739873?v=4",
+    "email": "2020kucp1019@iiitkota.ac.in",
+    "phone": "(+91)9024753831",
+    "website": "https://tejender1521.github.io/MyFirstCV/",
+    "summary": "|| DSA Enthusiast || Problem Solving Enthusiast || Full Stack Web Developer || C.S.E. Undergraduate || IIIT KOTA (MNIT JAIPUR) ||",
+    "location": {
+      "address": "House no.1,Ward no.24",
+      "postalCode": "335051",
+      "city": "Raisinghnagar",
+      "countryCode": "India",
+      "region": "Rajasthan"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Tejender Upadhyay",
+        "url": "https://www.twitter.com/tarun1521"
+      },
+      {
+        "network": "Github",
+        "username": "Tejender1521",
+        "url": "https://www.github.com/Tejender1521/"
+      },
+      {
+        "network": "linkedin",
+        "username": "Tejender Upadhyay",
+        "url": "https://www.linkedin.com/in/tejender-upadhyay/"
+      },
+      {
+        "network": "Instagram",
+        "username": "Tejender Upadhyay",
+        "url": "https://instagram.com/tejender_upadhyay"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Indian Institute of Information technology,kota",
+      "area": "Engineering",
+      "studyType": "B-Tech",
+      "startDate": "2020-12-02 To ",
+      "endDate": "2024-03-31",
+      "gpa": "8.76",
+      "courses": ["Computer Science & Engineering"]
+    },
+    {
+      "institution": "Allen Carrer Institute,Kota",
+      "area": "Joint Entrance Examination",
+      "studyType": "JEE Mains & Advance",
+      "startDate": "2018-04-01 To ",
+      "endDate": "2020-09-26",
+      "courses": ["Physics, Chemistry, Maths"]
+    },
+    {
+      "institution": "Kendriya Vidyalaya Sanghathan",
+      "studyType": "Secondary Education",
+      "startDate": "2013-04-01 To ",
+      "endDate": "2018-03-31",
+      "gpa": "87%",
+      "courses": ["CBSE Board Education"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "FIT INDIA CLUB, IIIT KOTA",
+      "position": "Core Team Member and Drive Management",
+      "website": "https://fitindiaiiitkota.vercel.app/",
+      "startDate": "2021-01-01",
+      "summary": "Sucessfully organised Chess Tournament and other Activities in our College Premesis."
+    }
+  ],
+  "publications": [
+    {
+		"title": "File Sharing Application",
+		"details": "File Sharing Application using Node.js and Express.js with MongoDB(Atlas cloud database) and Mongoose.js",
+		"link": "https://inshare-file-shareing-app.herokuapp.com/"
+
 	},
 	{
-		"title": "Password Generator",
-		"details": "Randomly generates strong passwords.",
-		"link": "https://tejender1521.github.io/Password-Generator/"
-	}],
-	
-	"skills": [{
-		"level": "Master",
-		"keywords": ["C/C++", "Javascript", "React" ,"Node" ,"Express.js" ,"MongoDB" ,"Python", "Canva", "HTML", "CSS", "Bootstrap", "PHP", "jQuery", "MySql", "GIT", "GitHub"]
-	}],
-	"interests": [{
-		"name": "Blogs Reading",
-		"keywords": ["Artificial Inteligence", "Data Science", "Programming", "Science", "New Technogolies", "GeekforGeek"]
+		"title": "Image Uploader",
+		"details": "Image Uploader using Node.js and Express.js with MongoDB(Atlas cloud database) and Mongoose.js",
+		"link": "https://image-gallery-uploader.herokuapp.com/"
+
 	},
-        {
-		"name": "Sports",
-		"keywords": ["Chess", "Cycling", "Programming"]
-	}]
+	{
+		"title": "Weather App",
+		"details": "Weather app using vanilla javascript and openweathermap API",
+		"link": "https://tejender1521.github.io/Weather-Report/"
+
+	},
+	{
+		"title": "Todo App",
+		"details": "Todo app using vanilla javascript and local storage",
+		"link": "https://tejender1521.github.io/Todo-Application/"
+
+	},
+	{
+		"title": "New year countdown",
+		"details": "New year countdown using vanilla javascript",
+		"link": "https://tejender1521.github.io/Countdown-Timer/"
+
+	},
+	{
+      "title": "Git Hub Profile Viewer",
+      "details": "By Searching your Username, you can easily fetch your Github Profile and Repository References",
+      "link": "https://tejender1521.github.io/Github-App/"
+    },
+    {
+      "title": "Password Generator",
+      "details": "Randomly generates strong passwords.",
+      "link": "https://tejender1521.github.io/Password-Generator/"
+    }
+  ],
+
+  "skills": [
+    {
+      "level": "Master",
+      "keywords": [
+        "C/C++",
+        "Javascript",
+        "React",
+        "Node",
+        "Express.js",
+        "MongoDB",
+        "Python",
+        "Canva",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "PHP",
+        "jQuery",
+        "MySql",
+        "GIT",
+        "GitHub"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Blogs Reading",
+      "keywords": [
+        "Artificial Inteligence",
+        "Data Science",
+        "Programming",
+        "Science",
+        "New Technogolies",
+        "GeekforGeek"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Chess", "Cycling", "Programming"]
+    }
+  ]
 }
